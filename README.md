@@ -4,7 +4,8 @@ This is a mini project that demonstrates a modern, interactive flipping card UI 
 
 ## Demo
 
-![Card Demo](./images/demo.png)
+
+![Card Demo](/images/demo.png)
 
 
 ## Features
