@@ -4,12 +4,8 @@ This is a mini project that demonstrates a modern, interactive flipping card UI 
 
 ## Demo
 
-<<<<<<< HEAD
 ![Card Demo](./images/demo.png)
-=======
-![Card Demo]({![image](https://github.com/user-attachments/assets/04e81e1d-7196-446d-911a-fdbfe1eae262)}
-)
->>>>>>> 91a4a87d70fdd63382bed9583e1a301e8b0a9639
+
 
 ## Features
 - **3D Card Flip Animation**: Hover over the card to see a smooth 3D flip effect.
